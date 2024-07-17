@@ -16,7 +16,6 @@
 </div>
 <br/>
 <hr/>
-# Activities:
 <table style="width:100%;">
   <tr>
     <td>
