@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,mysql,redux,styledcomponents,sass" /><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,mysql,redux,sass" /><br>
 </div>
 <br/>
 <hr/>
